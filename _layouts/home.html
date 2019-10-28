@@ -1,31 +1,15 @@
 ---
 layout: default
 ---
+<h1> Welcome </h1>
+I'm Jongeun Park, research associate at KDI. My research interests are development economics, impact evaluations, household economics, social policy.
 
-<div class="catalogue">
-  {% for post in paginator.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
-      <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h1 class="catalogue-title">{{ post.title }}</h1>
-        <div class="catalogue-line"></div>
-
-        <p>
-          {{ post.content | strip_html | truncatewords: 30 }}
-        </p>
-
-      </div>
-    </a>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
-
-  <span>{{ paginator.page }}</span>
-</div>
+<h2> Education <h2>
+2019, Master of Development Policy, KDI School of Public Policy and Management <br>
+2017, B.A. in Economics, Konkuk University <br>
+  
+<br>
+<h2> Work Experience <h2>
+Apr 2019 - Present, Research Associate, Korea Development Institute <br>
+Aug 2018 - Feb 2019, Volunteer, Merry Year International Malawi <br>
+Mar 2017 - Dec 2017, Research Assistant, Korea Labor Institute <br>
