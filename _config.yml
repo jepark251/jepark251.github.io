@@ -2,7 +2,7 @@
 title:          Jongeun Park
 description:    ""
 baseurl:        ""
-url:            "https://jepark251.github.io"
+url:            "http://jepark251.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -10,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Jongeun Park
-  url:          https://jepark251.github.io
+  url:          "http://jepark251.github.io"
   email:        jepark251@gmail.com
 
 # Build settings
