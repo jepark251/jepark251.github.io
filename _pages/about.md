@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "My life"
-<!-- author: "Chester" -->
 permalink: /about/
 ---
 
