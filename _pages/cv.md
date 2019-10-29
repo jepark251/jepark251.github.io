@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "CV"
-author: "Jongeun"
 permalink: /cv/
 ---
 
