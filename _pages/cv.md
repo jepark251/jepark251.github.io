@@ -5,4 +5,4 @@ author: "Jongeun"
 permalink: /cv/
 ---
 
-[CV](/assets/CV_Jongeun.pdf)
+[CV](/assets/CV_Jongeun.pdf) (Last updated: Nov 2019)
