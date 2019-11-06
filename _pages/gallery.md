@@ -4,3 +4,4 @@ permalink: /gallery/
 ---
 
 
+![Colombia](/assets/photo/images.jpg)
