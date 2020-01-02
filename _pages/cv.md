@@ -3,4 +3,4 @@ layout: post
 permalink: /cv/
 ---
 
-[Curriculum Vitae](/assets/CV_Jongeun.pdf) (Last updated: Jan 2020)
+[Curriculum Vitae](/assets/CV_Jongeun.pdf){: target="_blank"} (Last updated: Jan 2020)
